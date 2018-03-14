@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import Header from './Header';
 import Section from './Section';
 
@@ -9,4 +10,4 @@ const App = () => (
   </div>
 )
 
-export default App
+export default App;
