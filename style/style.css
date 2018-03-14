@@ -1,0 +1,10 @@
+ul {
+    width: 100%;
+}
+
+ul li {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    width: 20%;
+}
